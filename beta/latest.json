@@ -1,0 +1,11 @@
+{
+  "channel": "beta",
+  "version": "0.2.2",
+  "pub_date": "2026-09-08T07:44:58.963Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRWc2akU3TUFPME9iVEdXZnMwL1Vkaks2UFpTMHFVREVlQzJURm9paENUZ0d4eFl5OUcxNzQ0VnlLOVEvUFdVczRWODZYN0prakxrbzkvNjFXWjBXRkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODUzNDk4CWZpbGU6RHVyZS5hcHAudGFyLmd6CjZqZlFTUmp0Um9UQXVUeVBiMklFcG41UHpjYVVaT3RwNUhBbXFKM2twNG5zYk1KOXdYRGhlMGd0ZGpZMHZPUjRTTzVVRUo1ZGtMamFEb3ZhMmRabkF3PT0K",
+      "url": "https://github.com/hebbianai/hebbian-releases/releases/download/v0.2.2/Dure.app.tar.gz"
+    }
+  }
+}
