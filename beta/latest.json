@@ -1,11 +1,11 @@
 {
   "channel": "beta",
-  "version": "0.2.5",
-  "pub_date": "2026-09-09T20:26:58.855Z",
+  "version": "0.2.8",
+  "pub_date": "2026-09-10T14:20:23.805Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRXJ6V2dwQUNFd3pvMUExRldzSTR3ZGtLTWZ1NmlqRVA0WWtIS0dpVjlHQWJBYnlHcGlGT3I0dlRUYnkveWxFbzZ3ZW01ZHZpaWNrL3RJblo1TXBkMkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg1NjE4CWZpbGU6RHVyZS5hcHAudGFyLmd6Ck9lQlNLK3phNUNnaUV2SEYxdlFBdWZOK3ljeXFidDdWcEtQUjN5MzU0VmlMd0lNQlB5aktIV3pMUlBBVVZlTEpFUzZsdkZlSjBsdXV4SjlWQ2ZUc0RnPT0K",
-      "url": "https://github.com/hebbianai/hebbian-releases/releases/download/v0.2.5/Dure.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRWtyMXk3dW9UOXFRNXJxdGxPTnpIdlY1ZkVBYnFLZ1U0Uy9DUkdsNWh5VDl4bXIzY3VxdjFpb2hpajZFWVpqZ0t0SjZlbmgyRG85YTl0Y1kwNS9VTWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUwMDIwCWZpbGU6RHVyZS5hcHAudGFyLmd6CjF5VGJOcHR1bHlSOFRLY2VjazY5bkovNkQyMHFoNWxSR211OWVrRFM4ZTVHeU4yQVk2cmhUUzVVdGZMb2NPeG5wUkt4RldqbWNEdHFKZGZkYzFLVUNRPT0K",
+      "url": "https://github.com/hebbianai/hebbian-releases/releases/download/v0.2.8/Dure.app.tar.gz"
     }
   }
 }
