@@ -1,27 +1,27 @@
 {
   "channel": "beta",
-  "version": "0.2.70",
-  "pub_date": "2026-11-22T10:26:17.811Z",
+  "version": "0.2.71",
+  "pub_date": "2026-11-23T09:05:23.391Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRWhSUEc3MzZEMFJvTlJEQXlVd3dRNXAwYjMyNGFKVk9yRW93M3IwZkdtZjU1ejBuMTVMSjMwUlgvUnROWEN3QllrdE1VYWlzZVNzekFUY0dHK01sK2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQzMTM3CWZpbGU6RHVyZS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjcwCjZJMWUrenRGeHFEZ0thbnBITVpOTWdRa3EyQkhqQnZOSjVrT1JOT0ZBZzNKL2ZlbVd6SGF0dzVFRTU3dDRMaXBlWGFLaHAvRXRoYklRZVozRGxsK0NBPT0K",
-      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.70/Dure.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRWtGU3JMYU1McVF4Mk8yNkcvNnV2L3IwcVNPR0pWRDFzcVAvakg2Qm80TGtaQjk2UVFqUXZjM3NZY2l6YVF6K0hrSXVCSFMyYVJRSGRoK2x2c1NqeVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI0Njg2CWZpbGU6RHVyZS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjcxClJxME1JQ01nMk5mVjZ5RXZKaUFjbk5iNHZnLzNoV01uRlNjWFQ3WEN1QTJJcmpiZTVqclpPeVJYR2l5ZkdCaFRLRWJvbXpsZWQ1VU0rWWdLQkhqSUJnPT0K",
+      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.71/Dure.app.tar.gz"
     },
     "linux-aarch64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRW1XU2ROSkg0b3M3L0YzMW9UN0kyYlR3YmFiSU9ZR0FENHJNbHZCT29lQWJQK1Q1RFVKU2xFZGVTZ3ZVK09XOHdZdGcyVDB5WVhTRzUxQnZWa0xJMlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUxODE4CWZpbGU6RHVyZV8wLjIuNzBfYWFyY2g2NC5BcHBJbWFnZQo2eDFwbGtmczJsa3lIWEZ2S05TTmVST0NlMFJZYzdYV3dvQUVjQnBXRnZNbXR5UTloeVdjWUZuQlFUSWxNS0VSNU1GUG9iVUlOYnRGTnhzYlYwVzBCZz09Cg==",
-      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.70/Dure_0.2.70_aarch64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRW4zWjFpdnZEMzBkTlUxMnJqMlk1NE1hZFo3UjUrdzBKMnFlNmJzZFBLZjFYb0xYc1RWMjdXdVRTR0VUM3pWM1cwMDY0OFh2b0lHMFo2bWVCTUMxYkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE2NDg4CWZpbGU6RHVyZV8wLjIuNzFfYWFyY2g2NC5BcHBJbWFnZQpGOGUrSDJwZlBOU1dieUdrTW9Yd05HU3dsTVJvUHVYNFl1aGlGTCs4KzZjYXZaTXJ1MnQ1eGtvZ3NnaXV6RTVVZFpFWElnZW9IeDd0MFZNOWd5SDFDdz09Cg==",
+      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.71/Dure_0.2.71_aarch64.AppImage"
     },
     "linux-aarch64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRWdwd1ptMDNNbVRNajRnYkFNd29yTEg3VVhVcmVEOENya0dpdmZEb0tEbFVjdm5hL0QvQ2hLYUdCYjBoemVlbTJsRnNWUmxLV2FDeUw5UStQbUlWbVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUxODIwCWZpbGU6RHVyZV8wLjIuNzBfYXJtNjQuZGViClN1MmlDVUF6czErR2JrcjZmNTVrMTQrVnFIWDBsZ2NRaXlFOTJTMFN2Wi9QVzFYZmtzeHpodUpXVWhPcVlLUEVoRG53QzNjc3VVZXExZUNBSENWTUF3PT0K",
-      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.70/Dure_0.2.70_arm64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRXFrVGlHNkYzUG44V3duWTc5Z2ZaVjhpeUhsMTlQNnFjaXVzNGE1UUx1QlIrZWRMWmlOQVp5cTB4bVNGSkVtZHZEcTF5QUN5SXA1OCsycTU0MDV1ZGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE2NDg5CWZpbGU6RHVyZV8wLjIuNzFfYXJtNjQuZGViCjNxNy9PY2hIZ25wbHdvZDVUUUNPOWwwQ1dwejJqek52RGdCenR2cDlXcWNuRGtIaTh6UWxDUEtvQVdhUjI1THdQMTI1UWw0ZmR4MVhPeDV2bGtvbURBPT0K",
+      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.71/Dure_0.2.71_arm64.deb"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRXZJSHdhenQxN0p0Q2djSys5VFJPcC9uRVQ3d1RVUXVvS3ozbk1ZbVJWYUdyWlBETjhZeFhGbCtzWE1aTk81RXc2M3B0ZHJvSzN3ZnNQV3lwNEdhQUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUxODIxCWZpbGU6RHVyZV8wLjIuNzBfYW1kNjQuQXBwSW1hZ2UKV080dU1QUXhLVUhxaWlRODh4U1pqWlZSTnVGUFdxRjVid0d5dFlNNGxWTW8xZzhTakd6ckVXTzlQcWhuUlZkSWpwWWJpYWhvUk1yTGQ2UGwvam5OQ2c9PQo=",
-      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.70/Dure_0.2.70_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRW5PTzM3SXp4VVVQV0JRZmNnby9hSitwN3F6bXl0TlhkeFFoZnRram90eUJPa1F2V3hyeFlhYy8xUXJ3eFZFOHVCejFXbjZDWndtV0hvdkM2QlgrQXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE2NDkwCWZpbGU6RHVyZV8wLjIuNzFfYW1kNjQuQXBwSW1hZ2UKT216R1ZKcGlibUlORWxudldJWVVKOXNta3dXVTdnZ3FFRTdVRDI5VEY2WUlOaWlYUDRudjRYSTRPU1VYdFo0cXpnc0lEK0tzRXF3ZHdHT25ocnlUQUE9PQo=",
+      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.71/Dure_0.2.71_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRXJTTUpVbHFMZlNWM1cyVWdYU3RUWGZIVGlha1lObUd5eUlXNG4yWm1XdU55UVY0ZjB3cGpjWFVHSVRmZWxXTzRwakZKUk10VTRkeUtSR3JLS1FLRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUxODIzCWZpbGU6RHVyZV8wLjIuNzBfYW1kNjQuZGViCjJnY0JQbHZReFh1VjdLcDhINC9kOFZPZlRjdElqYlIyQWtTamlFekgwQTBRek1uTDBHSktMZUFHWEp4UTBFMG1tRVIrTkdGelNpcEM3cDM1MnNkM0RnPT0K",
-      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.70/Dure_0.2.70_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSlRFVFlqNThjRXBuVlNEN2xqVVR0bG1leU1tUCtCUjNpNk81d244YmFkQS9LRy9xQ2FITlFwNDNwZHIvdDJtTGs1cDZRMW9wSUlYakVnZXhUZE9GS3RFdndvc0NRUHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE2NDkyCWZpbGU6RHVyZV8wLjIuNzFfYW1kNjQuZGViCnlncHA5QlJXYVlndXo4QnZOV09HeUlpZ1UxSWFkOEREcFhSM25zMVpxcTJCWnFrY2ZWRHU4WW5aQmIxYlNGQ1RKaHRsYk55a1FiV0RQQ0Y4SkNNekFBPT0K",
+      "url": "https://github.com/hebbianai/dure/releases/download/v0.2.71/Dure_0.2.71_amd64.deb"
     }
   }
 }
